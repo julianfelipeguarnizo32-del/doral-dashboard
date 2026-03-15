@@ -1,3 +1,4 @@
+
 # 📊 DORAL STORE — Dashboard Automático
 ### Usuario: **julianfelipeguarnizo32**
 ### 🔗 URL final: **https://julianfelipeguarnizo32.github.io/doral-dashboard/**
